@@ -1,0 +1,3 @@
+[submodule "rrule"]
+	path = rrule
+	url = git@github.com:Stowers-LIMS/rrule.git
